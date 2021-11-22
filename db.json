@@ -13,7 +13,7 @@
             "discountPercent":10,
             "category":["online","sale"],
             "tag":["kazi","frozen"],
-            "offerType":["discount"],
+            "offerType":["discount"]
         },
         {
             "offerId":2,
@@ -28,7 +28,7 @@
             "discountPercent":10,
             "category":["online","sale"],
             "tag":["kazi","frozen"],
-            "offerType":["discount"],
+            "offerType":["discount"]
         },
         {
             "offerId":3,
@@ -43,9 +43,8 @@
             "discountPercent":10,
             "category":["online","sale"],
             "tag":["kazi","frozen"],
-            "offerType":["discount"],
-        },
-        
+            "offerType":["discount"]
+        }        
         ],
     "users":[
         {
